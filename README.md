@@ -34,7 +34,7 @@ Desenhe o campo vetorial
 `F.draw()`
 
 Resultado
-![Resultado 1](./assets/F1.example.jpeg)
+![Resultado 1](./assets/F1.jpeg)
 
 Caso você deseje ver o campo _normalizado_. Modifique:
 
